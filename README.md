@@ -1,5 +1,7 @@
 # FinanzPilot
 
+![FinanzPilot – Dashboard, Desktop und Mobil](docs/preview.jpg)
+
 Finanz-Dashboard-UI mit selbst gebauten Chart-Komponenten. Next.js App Router, shadcn/ui, Tailwind, WebGL-Shader-Hintergrund. Läuft mit Beispieldaten aus `lib/mock-data.ts`, es gibt kein Backend und keine echten Kontodaten.
 
 ## Seiten
